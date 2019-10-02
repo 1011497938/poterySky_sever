@@ -1,0 +1,7 @@
+django-cors-headers
+Django==2.1.5
+fastdtw
+networkX
+cylouvain
+opencc-python-reimplemented
+gensim
